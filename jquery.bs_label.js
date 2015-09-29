@@ -1,8 +1,8 @@
 (function (jQuery) {
     var versions = "0.1";
     var pluginName = "jQuery.bs_label";
+    var methods = {};
     /* private methods ------------------------------------------------------ */
-
     var elemPool = {};
     var callBackPool = {};
     var disabledPool = {};
@@ -85,7 +85,7 @@
 
     };
     /* public methods ------------------------------------------------------- */
-    var methods = {
+    methods = {
         /**
          *    $('#a').bs_label({
 *        //label数据
