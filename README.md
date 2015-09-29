@@ -1,3 +1,4 @@
+```
 使用方法
 
 初始化:
@@ -22,3 +23,4 @@ $("#dome").bs_label({
 $("#dome").bs_label("checked","f")
 切换禁用
 $("#dome").bs_label("disable"[,true/false])
+```
