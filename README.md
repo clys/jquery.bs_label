@@ -1,5 +1,6 @@
+:unamused:
 ```
-使用方法:unamused:
+使用方法
 
 初始化:
 $("#dome").bs_label({
