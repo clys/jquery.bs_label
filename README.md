@@ -1,5 +1,5 @@
 ```
-使用方法
+使用方法:unamused:
 
 初始化:
 $("#dome").bs_label({
