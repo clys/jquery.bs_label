@@ -1,4 +1,4 @@
-已作为 [jQuery.eventModuleCraft](http://http://git.oschina.net/nightwish/jQuery.eventModuleCraft) 的一个模块  :unamused:
+已作为 [jQuery.eventModuleCraft](http://git.oschina.net/nightwish/jQuery.eventModuleCraft) 的一个模块  :unamused:
 ```
 使用方法
 
